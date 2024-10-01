@@ -13,9 +13,6 @@ export const Footer = () => {
         <li>
           <a href="https://www.linkedin.com/in/pratiksha-patil-6a8743102/" target="_blank" rel="noreferrer" className="hover:underline me-4 md:me-6">LinkedIn</a>
         </li>
-       {/*  <li>
-          <a href="#" target="_blank" rel="noreferrer" className="hover:underline me-4 md:me-6">YouTube</a>
-        </li> */}
         <li>
           <a href="https://github.com/PratikshaCoder01/" target="_blank" rel="noreferrer" className="hover:underline">Github</a>
         </li>
